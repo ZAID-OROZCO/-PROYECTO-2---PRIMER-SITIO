@@ -1,0 +1,177 @@
+*{
+     margin: 0;
+     padding: 0;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+}
+body{
+    background: whitesmoke;
+}
+.navegacion{
+    width: 1000px;
+    margin: 30px auto;
+    
+}
+.navegacion ul{
+    list-style: none;
+    text-align: center;
+}
+.menu > li{
+    position: relative;
+    display: inline-block;
+}
+.menu > li > a{
+    display: block;
+    padding: 15px 20px;
+    color: #353535;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.menu li a:hover{
+    color:royalblue;
+    transition: all .5s;
+}
+.fondoinicio > p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, .50%);
+}
+.fondoinicio > h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, .50%);
+    font-size: 70px;
+}
+.p2 > p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, .50%);
+}
+.tabla2{
+    background: gray;
+    height: 100%;
+    width: 100%;
+    text-align:center;
+}
+.phistoria{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 300px;
+    width: 500px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: 50px;
+}
+.tbhistoria{
+    background:violet;
+    background-color: aqua;
+}
+.imgcreador{
+    position: relative;
+    left: 800px;
+    top: -200px;
+
+}
+.pdefinicion{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 800px;
+    width: 900px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: 0px;
+}
+.imgdefinicion{
+    position: relative;
+    left: 500px;
+    top: -350px;
+}
+.p2definicion{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 200px;
+    width: 900px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: -300px;
+}
+.putilidades{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 300px;
+    width: 500px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: 50px;
+}
+.imgutilidades{
+    position: relative;
+    left: 800px;
+    top: -275px;
+}
+.pusos{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 800px;
+    width: 900px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: 0px;
+}
+.p2usos{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 25px;
+    width: 900px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: -450px;
+}
+.imgusos{
+    position: relative;
+    left: 500px;
+    top: -500px;
+}
+.pcaracteristicas{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 300px;
+    width: 500px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: 50px;
+}
+.imgcaracteristicas{
+    position: relative;
+    left: 800px;
+    top: -225px;
+}
+.p2caracteristicas{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    height: 25px;
+    width: 900px;
+    font-size:x-large;
+    position: relative;
+    left: 230px;
+    top: -190px;
+}
